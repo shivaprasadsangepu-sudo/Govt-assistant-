@@ -1,0 +1,7 @@
+{
+  "name": "GovAssist - India's Smart Job & Scheme Finder",
+  "description": "A high-performance platform for discovering eligible Indian government jobs and schemes using AI-powered matching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
